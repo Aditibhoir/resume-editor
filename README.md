@@ -55,9 +55,7 @@ npm run dev
 
 ![image](https://github.com/user-attachments/assets/fd683809-ce45-49ca-b36a-db2cd01fb6bc)
 
-
-![image](https://github.com/user-attachments/assets/bb61d24b-7350-45a4-99fe-b9fedba40d4e)
-
+![image](https://github.com/user-attachments/assets/1752e4ee-d587-4e3b-b75b-ae72de80d544)
 
 
 🚀 Future Improvements
