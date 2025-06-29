@@ -52,10 +52,9 @@ npm run dev
 🎨 Clean and responsive design
 
 📸 Screenshots
-https://github.com/Aditibhoir/resume-editor/issues/1#issue-3186124175
+![Image](https://github.com/user-attachments/assets/71484dd3-a603-4a29-b734-1811c5f63b46)
 
-
-![image](https://github.com/user-attachments/assets/03e16444-5f73-4994-aab0-331f711768ca)
+![Image](https://github.com/user-attachments/assets/ffbb31b0-337e-4b96-b429-ae143c78c430)
 
 
 
