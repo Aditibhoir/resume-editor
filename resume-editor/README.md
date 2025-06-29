@@ -1,0 +1,1 @@
+# Resume Editor\n\n## Setup Instructions\n\n### Frontend\n```\ncd frontend\nnpm install\nnpm start\n```\n\n### Backend\n```\ncd backend\npip install -r requirements.txt\nuvicorn main:app --reload\n```
