@@ -52,7 +52,12 @@ npm run dev
 🎨 Clean and responsive design
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/3f990cc3-b0a9-421e-bca7-4b825407a5e5)
+
+![image](https://github.com/user-attachments/assets/fd683809-ce45-49ca-b36a-db2cd01fb6bc)
+
+
+![image](https://github.com/user-attachments/assets/bb61d24b-7350-45a4-99fe-b9fedba40d4e)
+
 
 
 🚀 Future Improvements
