@@ -1,6 +1,6 @@
 # 💼 Resume Editor
 
-A modern, web-based Resume Editor built with **React + FastAPI**  
+A modern, web-based Resume Editor built with React + FastAPI  
 ✨ Enhance sections with mock AI  
 📄 Upload + Edit your resume  
 💾 Save and ⬇ Download as JSON  
@@ -21,11 +21,11 @@ resume-editor/
 
 ---
 
-## ⚙️ How to Run
+## ⚙ How to Run
 
 ### ✅ Backend (FastAPI)
 
-```bash
+bash
 cd backend/backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -52,8 +52,7 @@ npm run dev
 🎨 Clean and responsive design
 
 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/53df5920-4d37-435a-be87-bfd202c4fa23)
+![image](https://github.com/user-attachments/assets/3f990cc3-b0a9-421e-bca7-4b825407a5e5)
 
 
 🚀 Future Improvements
@@ -65,6 +64,4 @@ npm run dev
 
 🤖 Real AI integration (OpenAI API)
 
-Made with 💖 by @Aditibhoir
-
-
+Made with 💖@Aditibhoir
